@@ -1,5 +1,7 @@
 # Atomic Bombs · Claude Opus 5.5
 
+> **Как запустить готовую сборку / How to run the ready-made build:** см. / see [HOW_TO_PLAY.md](../../HOW_TO_PLAY.md) в корне репозитория / in the repository root. Если ниже упоминаются другие файлы запуска — их в этом репозитории нет / if other launch files are mentioned below, they are not part of this repository.
+
 > 🇬🇧 **English version:** [README_EN.md](README_EN.md)
 
 Игра на Godot 4.7.2 о масштабе взрывов. Ты стоишь в бетонном бункере наблюдения на краю пустынного
